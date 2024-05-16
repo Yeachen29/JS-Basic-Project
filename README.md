@@ -1,7 +1,7 @@
 # JS-Basic-Project
 My JavaScript Biginner Project
 
-## status
+## Status
 We make everyday one or two project.
 
 ## About Project one
