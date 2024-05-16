@@ -1,0 +1,86 @@
+[
+ {
+        "id" : "1",
+        "name" : "Ava",
+        "job" : "UX/UI designer",
+        "des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus voluptas, natus perferendis expedita placeat ut numquam, laborum unde neque ad nobis eveniet. Itaque, asperiores dicta.",
+        "img" : "./customer/1.png"
+    },
+    {
+        "id" : "2",
+        "name" : "Lucas",
+        "job" : "Web Developer",
+        "des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus voluptas, natus perferendis expedita placeat ut numquam, laborum unde neque ad nobis eveniet. Itaque, asperiores dicta.",
+        "img" : "./customer/2.jpg"
+    },
+    {
+        "id" : "3",
+        "name" : "William",
+        "job" : "Web Developer",
+        "des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus voluptas, natus perferendis expedita placeat ut numquam, laborum unde neque ad nobis eveniet. Itaque, asperiores dicta.",
+        "img" : "./customer/3.jpg"
+    },
+    {
+        "id" : "4",
+        "name" : "Benjamin",
+        "job" : "Web Designer",
+        "des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus voluptas, natus perferendis expedita placeat ut numquam, laborum unde neque ad nobis eveniet. Itaque, asperiores dicta.",
+        "img" : "./customer/4.jpg"
+    },
+    {
+        "id" : "5",
+        "name" : "Henry",
+        "job" : "Web Designer",
+        "des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus voluptas, natus perferendis expedita placeat ut numquam, laborum unde neque ad nobis eveniet. Itaque, asperiores dicta.",
+        "img" : "./customer/5.jpg"
+    },
+    {
+        "id" : "6",
+        "name" : "Charlotte",
+        "job" : "Web Developer",
+        "des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus voluptas, natus perferendis expedita placeat ut numquam, laborum unde neque ad nobis eveniet. Itaque, asperiores dicta.",
+        "img" : "./customer/6.jpeg"
+    },
+    {
+        "id" : "7",
+        "name" : "Amelia",
+        "job" : "Graphic Designer",
+        "des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus voluptas, natus perferendis expedita placeat ut numquam, laborum unde neque ad nobis eveniet. Itaque, asperiores dicta.",
+        "img" : "./customer/7.jpg"
+    },
+    {
+        "id" : "8",
+        "name" : "Emma",
+        "job" : "Graphic Designer",
+        "des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus voluptas, natus perferendis expedita placeat ut numquam, laborum unde neque ad nobis eveniet. Itaque, asperiores dicta.",
+        "img" : "./customer/8.jpg"
+    },
+    {
+        "id" : "9",
+        "name" : "James",
+        "job" : "UX/UI Designer",
+        "des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus voluptas, natus perferendis expedita placeat ut numquam, laborum unde neque ad nobis eveniet. Itaque, asperiores dicta.",
+        "img" : "./customer/9.jpeg"
+    },
+    {
+        "id" : "10",
+        "name" : "Noah",
+        "job" : "Web Developer",
+        "des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus voluptas, natus perferendis expedita placeat ut numquam, laborum unde neque ad nobis eveniet. Itaque, asperiores dicta.",
+        "img" : "./customer/10.jpg"
+    },
+    {
+        "id" : "11",
+        "name" : "Liam",
+        "job" : "Web Designer",
+        "des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus voluptas, natus perferendis expedita placeat ut numquam, laborum unde neque ad nobis eveniet. Itaque, asperiores dicta.",
+        "img" : "./customer/11.jpg"
+    },
+    {
+        "id" : "12",
+        "name" : "Olivia",
+        "job" : "Graphic Designer",
+        "des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus voluptas, natus perferendis expedita placeat ut numquam, laborum unde neque ad nobis eveniet. Itaque, asperiores dicta.",
+        "img" : "./customer/12.png"
+    }
+]

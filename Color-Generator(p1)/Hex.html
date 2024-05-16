@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Site Icon-->
+    <link rel="Icon" type="images/png" href="../icon.png">
+    <!--Site Title-->
+    <title>JS Project - 1</title>
+    <!--Main Css -->
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="header-section">
+        <div class="contain">
+            <div class="header-logo">
+                <h1>Color Gen</h1>
+            </div>
+            <div class="header-menu">
+                <ul>
+                    <li><a href="index.html">Simple Page</a></li>
+                    <li><a href="Hex.html">Hex Color Code</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="main-section">
+        <div class="contain">
+            <div class="box-item">
+                <h2>Background Color : <span id="hexColor">rgb(255, 255, 255)</span></h2>
+                <button onclick="genHexColor()">Click Me</button>
+                <button id="copyColor" onclick="copyColor()"><span id="tooltip" onmouseout="tostMess()">Copy To Clipboard</span>Copy Color</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="apps.js"></script>
+</body>
+</html>

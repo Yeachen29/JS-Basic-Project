@@ -1,0 +1,158 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+svg {
+	font-size: 20px;
+	width: 30px;
+	background: transparent;
+	height: 30px;
+	border-radius: 5px;
+	border: 2px solid #000;
+}
+
+.container {
+	display: flex;
+	justify-content: space-between;
+	max-width: 90%;
+	margin: 0 auto;
+	flex-wrap: wrap;
+    align-items: center;
+}
+
+
+header {
+	position: sticky;
+	top: 0;
+	left: 0;
+	background: #f7f7f7;
+	height: 100%;
+	width: 100%;
+}
+
+#mobile-btn {
+	display: none;
+}
+
+nav.menu {
+	display: flex;
+	justify-content: space-between;
+	width: 70%;
+	align-items: center;
+}
+.navigation ul, .social-icon ul {
+	display: flex;
+}
+
+header li {
+	padding: 0 15px;
+	text-transform: uppercase;
+	font-weight: 500;
+    position: relative;
+}
+.social-icon li {
+	padding: 0 5px;
+}
+header a{
+    color:dimgray
+}
+
+.social-title {
+	border: 1px solid;
+	padding: 0 10px;
+	border-radius: 2px;
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	transform: translateX(-50%);
+	width: max-content;
+	margin-bottom: -50px;
+	visibility: hidden;
+	opacity: 0;
+    transition: .3s;
+}
+.social-title::before {
+	position: absolute;
+	top: 0;
+	left: 50%;
+	height: 10px;
+	width: 10px;
+	background: #fff;
+	border-left: 1px solid;
+	border-top: 1px solid;
+	margin-top: -5px;
+	transform: rotate(45deg);
+	content: "";
+	border-radius: 0 0 50px 0;
+}
+
+header li:hover .social-title {
+    margin-bottom: -25px;
+	visibility: visible;
+	opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:810px) {
+
+.logo {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+#mobile-btn {
+	display: block;
+	background: transparent;
+	border: none;
+	cursor: pointer
+}
+nav.menu {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	width: 100%;
+	max-width: 400px !important;
+	background: #e1e1e1;
+	position: absolute;
+	right: -30%;
+	height: auto;
+	visibility: hidden;
+	top: 95%;
+	padding: 20px 0;
+	transition: .3s;
+}
+
+nav.menu.active{
+	right: 0%;
+	visibility: visible;
+}
+ .navigation ul {
+    display: block;
+  }
+ .navigation li {
+    padding: 10px 0;
+  }
+
+}
