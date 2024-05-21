@@ -4,6 +4,10 @@ My JavaScript Biginner Project
 ## Status
 We make everyday one or two project.
 
+## Template File
+### Subject : Our Boilar Template for this course
+Info : Teplate File is a simple boilarplate for this coourse project. 
+
 ## About Project one
 ### Subject: Random Color Generator
 Info: There have two type of color generator. First one is hex color code generator and second one rgb color code generator.
