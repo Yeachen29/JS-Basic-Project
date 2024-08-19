@@ -10,6 +10,7 @@ Info : Teplate File is a simple boilarplate for this coourse project.
 
 ## About Project one
 ### Subject: Random Color Generator
+![alt text](image.png)
 Info: There have two type of color generator. First one is hex color code generator and second one rgb color code generator.
 
 ## About Project Two
